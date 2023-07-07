@@ -119,6 +119,75 @@
         </div>
     </section>
 
+    <section class="c-home-photocarousel">
+        <div class="section photo-carousel-wrapper p-0">
+            <div class="main-title text-center position-relative">
+                <span class="font-playfair">Nossos Momentos</span>
+                <h5 class="font-raleway">Alguns de nossos momentos</h5>
+            </div>
+            <div class="container-fluid c-container-padding">
+                <div id="gallery-slides" class="owl-carousel owl-theme" data-aos="zoom-in-up">
+                    <div class="item position-relative">
+                        <img src="<?=BASE_URL?>assets/images/home/image1.jpeg" alt="photo">
+                    </div>
+                    <div class="item position-relative">
+                        <img src="<?=BASE_URL?>assets/images/home/image2.jpeg" alt="photo">
+                    </div>
+                    <div class="item position-relative">
+                        <img src="<?=BASE_URL?>assets/images/home/image3.jpeg" alt="photo">
+                    </div>
+                    <div class="item position-relative">
+                        <img src="<?=BASE_URL?>assets/images/home/image4.jpeg" alt="photo">
+                    </div>
+                    <div class="item position-relative">
+                        <img src="<?=BASE_URL?>assets/images/home/image5.jpeg" alt="photo">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="celebration-time-sec position-relative">
+        <div class="main-title more-text text-center position-relative">
+            <span class="font-playfair">Quando & Onde</span>
+            <h5 class="font-raleway">Celebração Inicia</h5>
+        </div>
+        <div class="container-fluid c-container-padding celebration-space-adjust">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="rsvp-full-container about-single-content rsvp-adust">
+                        <div class="rsvp-icon-contents">
+                            <div class="rsvp-bordered">
+                                <img src="<?=BASE_URL?>assets/images/elements-images/svg/rsvp-icon-1.svg" alt="icon">
+                            </div>
+                        </div>
+                        <div>
+                            <h6 class="font-playfair rsvp-single-title">Casamento Civil</h6>
+                            <div class="about-single-sep"></div>
+                        </div>
+                        <p class="text-center rsvp-box-desc-first">Sábado, 23 Setembro 2023 <br>09:00 – 10:00 PM</p>
+                        <p class="text-center rsvp-box-desc-last">R. Olegário Paiva, 186 - Centro, Mogi das Cruzes - SP, 08780-040</p>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="rsvp-full-container about-single-content rsvp-adust">
+                        <div class="rsvp-icon-contents">
+                            <div class="rsvp-bordered">
+                                <img src="<?=BASE_URL?>assets/images/elements-images/svg/rsvp-icon-2.svg" alt="icon">
+                            </div>
+                        </div>
+                        <div>
+                            <h6 class="font-playfair rsvp-single-title">Festa de Casamento</h6>
+                            <div class="about-single-sep"></div>
+                        </div>
+                        <p class="text-center rsvp-box-desc-first">Sábado, 23 Setembro 2023 <br>12:00 – 16:00 PM</p>
+                        <p class="text-center rsvp-box-desc-last">Assai mogilar - Av. Pref. Carlos Ferreira Lopes, 600 - Box 30 - Vila Mogilar, Mogi das Cruzes - SP, 08773-490</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <footer class="footer-bg">
         <div class="footer-main" data-aos="zoom-in">
             <div class="footer-bg1">
