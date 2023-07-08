@@ -217,7 +217,7 @@
                     <h4>Festa de Casamento</h4>
                     <h6 class="text-brown">Você é muito bem vindo!</h6>
                     <p>
-                        Queremos agradecer desde já a sua participação nesse momento tão especial em nossas vidas. E mediante disso planejamos a nossa festa de casamento no Boi nobre em Mogi das Cruzes localizado dentro do Assai Mogilar
+                        Queremos agradecer desde já a sua participação nesse momento tão especial em nossas vidas. E, mediante disso, planejamos a nossa festa de casamento no Boi nobre em Mogi das Cruzes localizado dentro do Assai Mogilar
                     </p>
                 </div>
             </div>
@@ -225,6 +225,12 @@
             </div>
         </div>
     </section>
+
+    <div class="map-sec">
+        <div class="map-overlay"></div>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15255.61890598669!2d-46.18880444903292!3d-23.512999685793826!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cdd82239aa11f1%3A0xed02bdb0a723c24d!2sBoi%20Nobre%20churrascaria!5e0!3m2!1spt-BR!2sbr!4v1688778301964!5m2!1spt-BR!2sbr"
+            width="100" height="450" style="border: 0; width: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
 
     <footer class="footer-bg">
         <div class="footer-main" data-aos="zoom-in">
