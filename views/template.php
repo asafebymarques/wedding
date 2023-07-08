@@ -188,7 +188,7 @@
                             <div class="about-single-sep"></div>
                         </div>
                         <p class="text-center rsvp-box-desc-first">Sábado, 23 Setembro 2023 <br>09:00 – 10:00 PM</p>
-                        <p class="text-center rsvp-box-desc-last">R. Olegário Paiva, 186 - Centro, Mogi das Cruzes - SP, 08780-040</p>
+                        <p class="text-center rsvp-box-desc-last">Cartório Civil Mogi das Cruzes - R. Olegário Paiva, 186 - Centro, Mogi das Cruzes - SP, 08780-040</p>
                     </div>
                 </div>
                 <div class="col-md-6">
