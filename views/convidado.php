@@ -16,7 +16,6 @@
                          <tr>
                              <th scope="col">Nome</th>
                              <th scope="col">Telefone</th>
-                             <th scope="col">Presente</th>
                          </tr>
                      </thead>
                     <tbody>
@@ -25,7 +24,6 @@
                         <tr>
                              <th scope="row"><?=$convidadoEntity['nome']?></th>
                              <td><?=$convidadoEntity['telefone']?></td>
-                             <td><?=$convidadoEntity['descricao']?></td>
                          </tr>  
                         <?php endforeach;?>
                     </tbody>

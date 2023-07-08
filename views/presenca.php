@@ -22,7 +22,7 @@
                     <div class="card-rsvp-container position-relative" data-aos="fade-left">
                         <div class="card-image-rsvp1">
                             <img class="w-100" src="<?=BASE_URL?>assets/images/rsvp/card1.jpeg" alt="card">
-                            <h5>Better Half</h5>
+                            <h5>Love</h5>
                         </div>
                         <div class="card-right-design"><img src="<?=BASE_URL?>assets/images/object/rsvp-right.png" alt="flower"></div>
                         <div class="card-image-rsvp2">
