@@ -1,5 +1,5 @@
 <div class="main-title text-center position-relative">
-    <span class="font-playfair">Chá de Cozinha</span>
+    <span class="font-playfair">Chá de Panela</span>
     <h5 class="font-raleway">Você é nosso convidado!</h5>
 </div>
 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
