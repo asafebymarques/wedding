@@ -217,7 +217,8 @@
                     <h4>Festa de Casamento</h4>
                     <h6 class="text-brown">Você é muito bem vindo!</h6>
                     <p>
-                        Queremos agradecer desde já a sua participação nesse momento tão especial em nossas vidas. E, mediante disso, planejamos a nossa festa de casamento no Boi nobre em Mogi das Cruzes localizado dentro do Assai Mogilar
+                        Queremos agradecer desde já a sua participação nesse momento tão especial em nossas vidas. E, mediante disso, planejamos a nossa festa de casamento no Boi nobre em Mogi das Cruzes localizado dentro do Assai Mogilar.
+                        <br>"Nós apreciaríamos muito a sua presença no nosso casamento. Por favor, esteja ciente de que este é um todos os custos são de responsabilidade de cada convidados."
                     </p>
                 </div>
             </div>
