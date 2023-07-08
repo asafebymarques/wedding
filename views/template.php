@@ -119,6 +119,28 @@
         </div>
     </section>
 
+    <section class="about-couple">
+        <div class="container couple-container">
+            <img src="<?=BASE_URL?>assets/images/object/couple_shape.png" alt="" class="coupleshape">
+            <div class="c-flex-space-between m-flex">
+                <div class="couple-left">
+                    <h6 class="font-raleway">A Noiva</h6>
+                    <h5 class="font-playfair">Hevelin</h5>
+                    <p>"Gratidão a Todos vocês  por compartilharem conosco esse momento tao importante e especial.<br>Grande Beijo"</p>
+                </div>
+                <div class="couple-center">
+                    <div class="ac-main-img">
+                        <img class="about-center" src="<?=BASE_URL?>assets/images/home/image1.jpeg" alt="">
+                    </div>
+                </div>
+                <div class="couple-right">
+                    <h6 class="font-raleway">O Noivo</h6>
+                    <h5 class="font-playfair">Asafe</h5>
+                    <p>"Agradeço a todos que fizeram parte da minha história e vai ser uma honra que você faça parte da nossa história nesse momento, gostaria de agradecer a Deus e aos nossos pais..."</p>
+                </div>
+            </div>
+        </div>
+    </section>
     <section class="c-home-photocarousel">
         <div class="section photo-carousel-wrapper p-0">
             <div class="main-title text-center position-relative">
@@ -181,9 +203,25 @@
                             <div class="about-single-sep"></div>
                         </div>
                         <p class="text-center rsvp-box-desc-first">Sábado, 23 Setembro 2023 <br>12:00 – 16:00 PM</p>
-                        <p class="text-center rsvp-box-desc-last">Assai mogilar - Av. Pref. Carlos Ferreira Lopes, 600 - Box 30 - Vila Mogilar, Mogi das Cruzes - SP, 08773-490</p>
+                        <p class="text-center rsvp-box-desc-last">Boi Nobre - Assai mogilar - Av. Pref. Carlos Ferreira Lopes, 600 - Box 30 - Vila Mogilar, Mogi das Cruzes - SP, 08773-490</p>
                     </div>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="c-about-progress-top event-services-adjust">
+        <div class="c-flex about-progress-inner">
+            <div class="progress-left about-progress">
+                <div class="about-getting-married">
+                    <h4>Festa de Casamento</h4>
+                    <h6 class="text-brown">Você é muito bem vindo!</h6>
+                    <p>
+                        Queremos agradecer desde já a sua participação nesse momento tão especial em nossas vidas. E mediante disso planejamos a nossa festa de casamento no Boi nobre em Mogi das Cruzes localizado dentro do Assai Mogilar
+                    </p>
+                </div>
+            </div>
+            <div class="progress-main-wrapper">
             </div>
         </div>
     </section>
