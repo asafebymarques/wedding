@@ -226,6 +226,36 @@
         </div>
     </section>
 
+    <section class="cta-textonly-sec-orange back-lightgrey">
+        <div class="container-fluid c-container-padding">
+            <div class="main-title more-text text-center position-relative">
+                <span class="font-playfair">Lista de Presentes</span>
+                    <h5 class="font-raleway">Casamento</h5>
+            </div>
+            <div class="flex-wrapper row">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="moments-card-left">
+                            <h4 class="font-playfair">Casas Bahia</h4>
+                            <div class="about-single-sep about-single-sep-new"></div>
+                            <p class="moments-para">Segue a nossa lista de presentes da Casas Bahia</p>
+                            <div class="about-single-sep-horizontal"></div>
+                            <a href="https://listas.casasbahia.com.br/asafeehevelin" target="_blank" class="about-view-stories">Ir para Casas Bahia</a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6">
+                        <div class="moments-card-left">
+                            <h4 class="font-playfair">Havan</h4>
+                            <div class="about-single-sep about-single-sep-new"></div>
+                            <p class="moments-para">Segue a nossa lista de presentes da Havan</p>
+                            <div class="about-single-sep-horizontal"></div>
+                            <a href="https://lista.havan.com.br/Convidado/ItensListaPresente/690956" target="_blank" class="about-view-stories">Ir para Havan</a>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </section>
+
     <div class="map-sec">
         <div class="map-overlay"></div>
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15255.61890598669!2d-46.18880444903292!3d-23.512999685793826!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cdd82239aa11f1%3A0xed02bdb0a723c24d!2sBoi%20Nobre%20churrascaria!5e0!3m2!1spt-BR!2sbr!4v1688778301964!5m2!1spt-BR!2sbr"

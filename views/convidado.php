@@ -1,6 +1,9 @@
 <div class="main-title text-center position-relative">
     <span class="font-playfair">Chá de Panela</span>
     <h5 class="font-raleway">Você é nosso convidado!</h5>
+    <p>Nosso chá de Panela será no dia 05 de agosto as 17:00 <br>
+    Local: Rua Francisco Martins, 360 - Jardim ArmeniaMogi das Cruzes - SP, 08780-520
+</p>
 </div>
 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
      <div class="card">
