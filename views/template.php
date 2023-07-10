@@ -218,8 +218,9 @@
                     <h6 class="text-brown">Você é muito bem vindo!</h6>
                     <p>
                         Queremos agradecer desde já a sua participação nesse momento tão especial em nossas vidas. E, mediante disso, planejamos a nossa festa de casamento no Boi nobre em Mogi das Cruzes localizado dentro do Assai Mogilar.
-                        <br>"Nós apreciaríamos muito a sua presença no nosso casamento. Por favor, esteja ciente de que todos os custos são de responsabilidade de cada convidado."
+                        <br>
                     </p>
+                    <p class="font-weight-bold">"Nós apreciaríamos muito a sua presença no nosso casamento. Por favor, esteja ciente de que todos os custos são de responsabilidade de cada convidado."</p>
                 </div>
             </div>
             <div class="progress-main-wrapper">
