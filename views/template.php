@@ -75,7 +75,7 @@
                 <div class="collapse navbar-collapse" id="main-nav">
                     <ul class="navbar-nav ms-auto font-playfair">
                         <li class="nav-item dropdown">
-                            <a class="nav-link active" href="home.html"> Home </a>
+                            <a class="nav-link active" href="<?=BASE_URL?>home"> Home </a>
                         </li>
                         <li class="nav-item dropdown"><a class="nav-link" href="<?=BASE_URL?>presenca/"> Presença </a></li>
                         <li class="nav-item dropdown"><a class="nav-link" href="<?=BASE_URL?>convidado/"> Chá de panela </a></li>
@@ -234,26 +234,37 @@
                     <h5 class="font-raleway">Casamento</h5>
             </div>
             <div class="flex-wrapper row">
-                    <div class="col-lg-6 col-md-6">
-                        <div class="moments-card-left">
-                            <h4 class="font-playfair">Casas Bahia</h4>
-                            <div class="about-single-sep about-single-sep-new"></div>
-                            <p class="moments-para">Segue a nossa lista de presentes da Casas Bahia</p>
-                            <div class="about-single-sep-horizontal"></div>
-                            <a href="https://listas.casasbahia.com.br/asafeehevelin" target="_blank" class="about-view-stories">Ir para Casas Bahia</a>
+                    <div class="col-md-12">
+                    <div class="accordion orange-accordions" id="orangeAccordionExample" data-aos="fade-up">
+                        <div class="accordion-item">
+                            <h6 class="accordion-header" id="headingOneorange">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneorange" aria-expanded="true" aria-controls="collapseOneorange">
+                                    Havan
+                                </button>
+                            </h6>
+                            <div id="collapseOneorange" class="accordion-collapse collapse show" aria-labelledby="headingOneorange" data-bs-parent="#orangeAccordionExample">
+                                <div class="accordion-body">
+                                    <p class="moments-para">Segue a nossa lista de presentes da Havan</p>
+                                    <a href="https://lista.havan.com.br/Convidado/ItensListaPresente/690956" target="_blank">Ir para Havan</a>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-
-                    <div class="col-lg-6 col-md-6">
-                        <div class="moments-card-left">
-                            <h4 class="font-playfair">Havan</h4>
-                            <div class="about-single-sep about-single-sep-new"></div>
-                            <p class="moments-para">Segue a nossa lista de presentes da Havan</p>
-                            <div class="about-single-sep-horizontal"></div>
-                            <a href="https://lista.havan.com.br/Convidado/ItensListaPresente/690956" target="_blank" class="about-view-stories">Ir para Havan</a>
+                        <div class="accordion-item">
+                            <h6 class="accordion-header" id="headingTwoorange">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwoorange" aria-expanded="false" aria-controls="collapseTwoorange">
+                                    Casas Bahia
+                                </button>
+                            </h6>
+                            <div id="collapseTwoorange" class="accordion-collapse collapse" aria-labelledby="headingTwoorange" data-bs-parent="#orangeAccordionExample">
+                                <div class="accordion-body">
+                                    <p class="moments-para">Segue a nossa lista de presentes da Casas Bahia</p>
+                                    <a href="https://listas.casasbahia.com.br/asafeehevelin" target="_blank">Ir para Casas Bahia</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
+            </div>
         </div>
     </section>
 

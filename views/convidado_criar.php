@@ -15,8 +15,8 @@
                                                 <input id="inputText3" type="text" name="nome" required="Favor preencher o nome." placeholder="Nome Completo" class="form-control">
                                         </div>
                                         <div class="form-group">
-                                                <label for="inputText3" class="col-form-label">Telefone</label>
-                                                <input id="inputText3" type="phone" name="telefone" required="Favor preencher o telefone." placeholder="Telefone" class="form-control">
+                                                <label for="telefone" class="col-form-label">Telefone</label>
+                                                <input id="telefone" type="phone" name="telefone" required="Favor preencher o telefone." placeholder="Telefone" class="form-control">
                                         </div>
                                         <div class="form-group">
                                                 <label for="input-select">Presentes</label>
