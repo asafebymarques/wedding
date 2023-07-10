@@ -6,7 +6,7 @@
                         <div class="inner-form">
                             <form id="validationform" method="post" action="<?=BASE_URL?>presenca/criacao">
                                 <h5 class="font-playfair text-center">Confirme sua presença!</h5>
-                                <p class="text-center">Por favor confirme sua presença até o dia 30 de agosto de 2023</p>
+                                <p class="text-center">Até o dia 30 de agosto de 2023</p>
                                 <div class="norm-input">
                                     <input type="text" name="nome" id="nome"  placeholder="Nome Completo">
                                 </div>
