@@ -77,8 +77,8 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link active" href="<?=BASE_URL?>home"> Home </a>
                         </li>
-                        <li class="nav-item dropdown"><a class="nav-link" href="<?=BASE_URL?>presenca/"> Presença </a></li>
-                        <li class="nav-item dropdown"><a class="nav-link" href="<?=BASE_URL?>convidado/"> Chá de panela </a></li>
+                        <li class="nav-item dropdown"><a class="nav-link" href="<?=BASE_URL?>presenca/"> Confirmar Presença </a></li>
+                        <li class="nav-item dropdown"><a class="nav-link" href="<?=BASE_URL?>galeria/"> Galeria </a></li>
                     </ul>
                 </div>
             </div>
@@ -163,6 +163,21 @@
                     </div>
                     <div class="item position-relative">
                         <img src="<?=BASE_URL?>assets/images/home/image5.jpeg" alt="photo">
+                    </div>
+                    <div class="item position-relative">
+                        <img src="<?=BASE_URL?>assets/images/home/image6.jpeg" alt="photo">
+                    </div>
+                    <div class="item position-relative">
+                        <img src="<?=BASE_URL?>assets/images/home/image7.jpeg" alt="photo">
+                    </div>
+                    <div class="item position-relative">
+                        <img src="<?=BASE_URL?>assets/images/home/image8.jpeg" alt="photo">
+                    </div>
+                    <div class="item position-relative">
+                        <img src="<?=BASE_URL?>assets/images/home/image9.jpeg" alt="photo">
+                    </div>
+                    <div class="item position-relative">
+                        <img src="<?=BASE_URL?>assets/images/home/image10.jpeg" alt="photo">
                     </div>
                 </div>
             </div>
