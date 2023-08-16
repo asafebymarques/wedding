@@ -67,7 +67,7 @@
                 <a class="navbar-brand logo py-0" href="<?=BASE_URL?>">
                     <!--<img src="<?=BASE_URL?>assets/images/logo-light.svg" class="whitelogo" alt="">
                     <img src="<?=BASE_URL?>assets/images/logo-dark.svg" class="bluelogo" alt="">-->
-                    Hevelin & Asafe
+                    H & A
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main-nav">
                         <img src="<?=BASE_URL?>assets/images/svg/nav-toggle.svg" class="navbar-toggler-img" alt="toggle" >
