@@ -111,6 +111,38 @@
             </div>
         </div>
     </div>
+    <section class="about-us-bg position-relative c-home-about">
+    <div class="hero-image position-relative">
+        <div class="image-ring">
+            <img src="<?=BASE_URL?>assets/images/home/hero-main.jpg" alt="hero-main">
+        </div>
+    </div>
+    <div class="main-title text-center position-relative">
+        <span class="font-playfair">Felicidades</span>
+        <h5 class="font-raleway">Estamos nos casando</h5>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-lg-12">
+            <div class="about-c-home text-center">
+                <p class="mb-0 about-single-para">
+                Convidamos você para celebrar nosso casamento.
+                <br><i>"Deus é poderoso para fazer infinitamente mais do que tudo quanto pedimos ou pensamos, mediante seu poder que atua em nós!"<br>Efésios 3:20</i>
+                </p>
+            </div>
+        </div>
+    </div>
+        <!-- Start Video -->
+    <div class="c-home-video video-sec">
+        <div class="video-overlay"></div>
+        <div class="video-play position-relative">
+            <a class="video-play-button popup-youtube" href="https://vimeo.com/854845991?share=copy">
+                <span>
+                        <img src="assets/images/svg/video-icon.svg" alt="video-icon" >
+                    </span>
+            </a>
+        </div>
+    </div>
+    </section>
     <!-- End Hero Banner -->
     <!-- Start About Us -->
     <section class="about-us-bg position-relative c-home-about">
