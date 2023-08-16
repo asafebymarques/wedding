@@ -137,7 +137,7 @@
         <div class="video-play position-relative">
             <a class="video-play-button popup-youtube" href="https://vimeo.com/854845991?share=copy">
                 <span>
-                        <img src="assets/images/svg/video-icon.svg" alt="video-icon" >
+                        <img src="<?=BASE_URL?>assets/images/svg/video-icon.svg" alt="video-icon" >
                     </span>
             </a>
         </div>
